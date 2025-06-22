@@ -25,8 +25,8 @@ The main objective is to create a platform where **recruiters** can easily post 
 | Frontend     | React, Vite, Tailwind CSS, Axios |
 | Backend      | Node.js, Express.js, MongoDB (Mongoose) |
 | Authentication | Clerk                         |
-| Dev Tools    | Dotenv, Nodemon, Morgan, CORS   |
-| Deployment   | Vercel (Frontend), (TBD: Backend) |
+| Dev Tools    | Dotenv, Nodemon, CORS   |
+| Deployment   | Vercel (Frontend) |
 
 ---
 
@@ -38,25 +38,20 @@ The main objective is to create a platform where **recruiters** can easily post 
 
 ## 🖼️ Demo Screenshots
 
-### 🔐 Login Page
-![Login Page](demo-screenshots/login-page.png)
 ### 🏠 Home Page
 ![Home Page](https://github.com/user-attachments/assets/059f2156-ea4b-499e-a76b-038871b9ffb9)
 ![image](https://github.com/user-attachments/assets/782bbbaa-2346-4b3d-b7f0-8b0d3ac81866)
-
-
-
-
-### 📄 Job Details
-![Job Details](demo-screenshots/job-details.png)
 
 ### 🧑‍💼 Recruiter Dashboard
 ![image](https://github.com/user-attachments/assets/5b93c17b-4663-4988-a0e3-8f0d848ead06)
 ![image](https://github.com/user-attachments/assets/76ed2331-77a9-411e-82f9-f4efa726abc4)
 ![image](https://github.com/user-attachments/assets/6dcd366c-22c3-471e-aed1-ba61d56110e2)
 
+### 🔐 Login Page
+![image](https://github.com/user-attachments/assets/0c4c4644-59cf-47c3-9822-0708fbcdeedd)
+![image](https://github.com/user-attachments/assets/5c423b75-a7c5-4906-83a9-589de4cc7b20)
 
----
+
 
 ## 🧑‍🏫 Use Cases
 
