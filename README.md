@@ -69,10 +69,22 @@ The main objective is to create a platform where **recruiters** can easily post 
 
 ---
 
-## 📥 Clone and Run Locally
+## 🙋‍♂️ Contact
 
-### Step 1: Clone the repository
+For any feedback, feature requests, or collaboration:
 
-```bash
-git clone https://github.com/Raghu-2005/Insider-jobs.git
-cd Insider-jobs
+- 📧 Email: lraghuram14@gmail.com
+- 🌐 LinkedIn: [Raghuram L](https://www.linkedin.com/in/raghuram-l-1193b5259/)
+- 🔗 GitHub: [@Raghu-2005](https://github.com/your-username)
+
+---
+
+Thank you for exploring **Insider Jobs – Job Portal Application**!  
+This project was built with 💻 and ❤️ to simplify hiring and job hunting.
+
+Feel free to clone, customize, and use it as a reference for your own learning or portfolio.
+
+---
+
+
+
