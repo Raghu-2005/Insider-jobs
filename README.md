@@ -41,8 +41,10 @@ The main objective is to create a platform where **recruiters** can easily post 
 ### 🔐 Login Page
 ![Login Page](demo-screenshots/login-page.png)
 ### 🏠 Home Page
-![Home Page](https://github.com/user-attachments/assets/9cc81687-6f5f-4d4f-9e3f-ada00cb67931)
-![image](https://github.com/user-attachments/assets/19e0cbcf-e3b4-4f0e-8123-f08b8a091e2a)
+![Home Page](https://github.com/user-attachments/assets/059f2156-ea4b-499e-a76b-038871b9ffb9)
+
+![image](https://github.com/user-attachments/assets/782bbbaa-2346-4b3d-b7f0-8b0d3ac81866)
+
 
 
 
