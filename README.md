@@ -51,9 +51,10 @@ The main objective is to create a platform where **recruiters** can easily post 
 ![Job Details](demo-screenshots/job-details.png)
 
 ### 🧑‍💼 Recruiter Dashboard
-![Recruiter Dashboard](demo-screenshots/recruiter-dashboard.png)
+![image](https://github.com/user-attachments/assets/5b93c17b-4663-4988-a0e3-8f0d848ead06)
+![image](https://github.com/user-attachments/assets/76ed2331-77a9-411e-82f9-f4efa726abc4)
+![image](https://github.com/user-attachments/assets/6dcd366c-22c3-471e-aed1-ba61d56110e2)
 
-> 💡 You can place all images in a folder like `demo-screenshots/` in your root directory.
 
 ---
 
