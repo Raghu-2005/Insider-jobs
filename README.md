@@ -32,7 +32,7 @@ The main objective is to create a platform where **recruiters** can easily post 
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live site](https://job-portal-gs-client.vercel.app/)
+👉 [Click here to view the live site](https://insider-jobs-jade.vercel.app/)
 
 
 
